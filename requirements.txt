@@ -1,4 +1,4 @@
-torch==2.2.0
+torch
 torchdata==0.5.1
 transformers==4.48.0
 datasets==2.11.0
